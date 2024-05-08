@@ -1,0 +1,17 @@
+{
+    "1715025127988924:7778386": {
+        "IResourceController": {
+            "name": "Illusion",
+            "type": 5,
+            "subtype": 3,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715025127988919:7778385"
+        },
+        "IResourceManager": {
+            "uid": "1715025127988919:7778385",
+            "name": "Licensed Sound",
+            "flags": 0
+        }
+    }
+}

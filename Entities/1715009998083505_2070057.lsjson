@@ -1,0 +1,39 @@
+{
+    "1715009998082119:2070042": {
+        "IFileManager": {
+            "path": "Files/File_1715009998082119_2070042"
+        }
+    },
+    "1715009998083505:2070057": {
+        "IResourceController": {
+            "name": "cyan",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715009998083510:2070058",
+            "fileId": "1715009998082119:2070042",
+            "originalId": "1715009998096122:2070150",
+            "publicId": "1715009998181618:2070159",
+            "expected_hash": "7e47e163aa0e4f609492bf66b421f9e3"
+        },
+        "IResourceManager": {
+            "uid": "1715009998083510:2070058",
+            "name": "Files/File_1715009998082119_2070042",
+            "flags": 1
+        }
+    },
+    "1715009998096122:2070150": {
+        "IFileManager": {
+            "path": "Files/File_1715009998096122_2070150.lsmat"
+        }
+    },
+    "1715009998181618:2070159": {
+        "IResourceController": {
+            "public": {
+                "path": "Randomizer Resources/Materials/cyan.lsmat",
+                "hash": "004d066b52cedc0eaa4467e18f75c4ad"
+            }
+        }
+    }
+}

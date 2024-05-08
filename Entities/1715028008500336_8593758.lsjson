@@ -1,0 +1,33 @@
+{
+    "1715028008489331:8593757": {
+        "IFileManager": {
+            "path": "Files/File_1715028008489331_8593757.ttf"
+        }
+    },
+    "1715028008500336:8593758": {
+        "IResourceController": {
+            "name": "Caveat",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715028008500358:8593759",
+            "fileId": "1715028008489331:8593757",
+            "publicId": "1715028008502020:8593764",
+            "expected_hash": "21e34be24e1dcf90700db552fd3d17bf"
+        },
+        "IResourceManager": {
+            "uid": "1715028008500358:8593759",
+            "name": "Files/File_1715028008489331_8593757.ttf",
+            "flags": 1
+        }
+    },
+    "1715028008502020:8593764": {
+        "IResourceController": {
+            "public": {
+                "path": "Caveat.ttf",
+                "hash": "21e34be24e1dcf90700db552fd3d17bf"
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1534543284768020:20801": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1674687505089556:281180": {
+        "IResourceController": {
+            "name": "SegmentationController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1534543284768020:20801",
+            "fileId": "1674687505089558:281193",
+            "publicId": "1674687505089593:281231",
+            "expected_hash": "987312fc8a98d61bc58ad86932a07ae2"
+        },
+        "IResourceManager": {
+            "uid": "1534543284768020:20801",
+            "name": "/Resources/Resource22.js",
+            "flags": 1
+        }
+    },
+    "1674687505089558:281193": {
+        "IFileManager": {
+            "path": "Files/File_1674687505089558_281193.js"
+        }
+    },
+    "1674687505089593:281231": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/SegmentationController.js",
+                "hash": "987312fc8a98d61bc58ad86932a07ae2"
+            }
+        }
+    }
+}

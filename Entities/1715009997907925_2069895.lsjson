@@ -1,0 +1,38 @@
+{
+    "1715009997905625:2069894": {
+        "IFileManager": {
+            "path": "Files/File_1715009997905625_2069894.js"
+        }
+    },
+    "1715009997907925:2069895": {
+        "IResourceController": {
+            "name": "Randomizer",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715009997907962:2069896",
+            "fileId": "1715009997905625:2069894",
+            "publicId": "1715009997914104:2069912",
+            "expected_hash": "afa56f1f205c5c8728787a5611fd5d08"
+        },
+        "IResourceManager": {
+            "uid": "1715009997907962:2069896",
+            "name": "Files/File_1715009997905625_2069894.js",
+            "flags": 1
+        }
+    },
+    "1715009997907962:2069896": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1715009997914104:2069912": {
+        "IResourceController": {
+            "public": {
+                "path": "Randomizer Resources/Scripts/Randomizer.js",
+                "hash": "afa56f1f205c5c8728787a5611fd5d08"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1715009997962724:2069957": {
+        "IFileManager": {
+            "path": "Files/File_1715009997962724_2069957"
+        }
+    },
+    "1715009997964126:2069958": {
+        "IResourceController": {
+            "name": "pink",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715009997964131:2069959",
+            "fileId": "1715009997962724:2069957",
+            "originalId": "1715009997977606:2069965",
+            "publicId": "1715009998066578:2069974",
+            "expected_hash": "7e47e163aa0e4f609492bf66b421f9e3"
+        },
+        "IResourceManager": {
+            "uid": "1715009997964131:2069959",
+            "name": "Files/File_1715009997962724_2069957",
+            "flags": 1
+        }
+    },
+    "1715009997977606:2069965": {
+        "IFileManager": {
+            "path": "Files/File_1715009997977606_2069965.lsmat"
+        }
+    },
+    "1715009998066578:2069974": {
+        "IResourceController": {
+            "public": {
+                "path": "Randomizer Resources/Materials/pink.lsmat",
+                "hash": "72593f7b8a7b6f475b0804965b552b1b"
+            }
+        }
+    }
+}

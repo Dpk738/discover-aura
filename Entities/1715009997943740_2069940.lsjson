@@ -1,0 +1,22 @@
+{
+    "1715009997943740:2069940": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1715009997943962:2069941",
+            "resources": [
+                "1715009997928716:2069926"
+            ]
+        }
+    },
+    "1715009997943962:2069941": {
+        "IResourceController": {
+            "public": {
+                "path": "Randomizer Resources/Meshes"
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1674687505089558:281191": {
+        "IResourceController": {
+            "name": "BackgroundMat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1610747944404420:344587",
+            "fileId": "1674687505089584:281218",
+            "originalId": "1674687505089585:281219",
+            "publicId": "1674687505089594:281237",
+            "expected_hash": "93c415faf56049363ec92d9e9a3d4e9c",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1610747944404420:344587",
+            "name": "Files/File_1674687505089584_281218",
+            "flags": 1
+        }
+    },
+    "1674687505089584:281218": {
+        "IFileManager": {
+            "path": "Files/File_1674687505089584_281218"
+        }
+    },
+    "1674687505089585:281219": {
+        "IFileManager": {
+            "path": "Files/File_1674687505089585_281219.lsmat"
+        }
+    },
+    "1674687505089594:281237": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/BackgroundMat.lsmat",
+                "hash": "3cd249026950a6d421bcf3f764d138aa"
+            }
+        }
+    }
+}

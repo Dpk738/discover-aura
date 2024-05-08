@@ -1,0 +1,42 @@
+{
+    "1674687505089558:281190": {
+        "IResourceController": {
+            "name": "FillMat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1610747696110523:313159",
+            "fileId": "1674687505089582:281216",
+            "originalId": "1674687505089583:281217",
+            "publicId": "1674687505089594:281236",
+            "expected_hash": "93c415faf56049363ec92d9e9a3d4e9c",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1610747696110523:313159",
+            "name": "Files/File_1674687505089582_281216",
+            "flags": 1
+        }
+    },
+    "1674687505089582:281216": {
+        "IFileManager": {
+            "path": "Files/File_1674687505089582_281216"
+        }
+    },
+    "1674687505089583:281217": {
+        "IFileManager": {
+            "path": "Files/File_1674687505089583_281217.lsmat"
+        }
+    },
+    "1674687505089594:281236": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/FillMat.lsmat",
+                "hash": "498b526d51459f14fda0b260a89028f8"
+            }
+        }
+    }
+}

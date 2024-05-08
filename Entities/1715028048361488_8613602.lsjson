@@ -1,0 +1,33 @@
+{
+    "1715028048350446:8613601": {
+        "IFileManager": {
+            "path": "Files/File_1715028048350446_8613601.ttf"
+        }
+    },
+    "1715028048361488:8613602": {
+        "IResourceController": {
+            "name": "Indie Flower",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715028048361507:8613603",
+            "fileId": "1715028048350446:8613601",
+            "publicId": "1715028048362582:8613608",
+            "expected_hash": "cbd50882df82be5fce046e52b302e316"
+        },
+        "IResourceManager": {
+            "uid": "1715028048361507:8613603",
+            "name": "Files/File_1715028048350446_8613601.ttf",
+            "flags": 1
+        }
+    },
+    "1715028048362582:8613608": {
+        "IResourceController": {
+            "public": {
+                "path": "Indie Flower.ttf",
+                "hash": "cbd50882df82be5fce046e52b302e316"
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1674687505089558:281188": {
+        "IResourceController": {
+            "name": "TileMat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1610745629794001:56851",
+            "fileId": "1674687505089579:281212",
+            "originalId": "1674687505089580:281213",
+            "publicId": "1674687505089593:281234",
+            "expected_hash": "93c415faf56049363ec92d9e9a3d4e9c",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1610745629794001:56851",
+            "name": "Files/File_1674687505089579_281212",
+            "flags": 1
+        }
+    },
+    "1674687505089579:281212": {
+        "IFileManager": {
+            "path": "Files/File_1674687505089579_281212"
+        }
+    },
+    "1674687505089580:281213": {
+        "IFileManager": {
+            "path": "Files/File_1674687505089580_281213.lsmat"
+        }
+    },
+    "1674687505089593:281234": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/TileMat.lsmat",
+                "hash": "463ca38cb37eb83ffa75f44188c63b29"
+            }
+        }
+    }
+}

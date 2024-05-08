@@ -1,0 +1,24 @@
+{
+    "1715009997911205:2069908": {
+        "IResourceController": {
+            "name": "Randomizer Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1715009997911396:2069909",
+            "resources": [
+                "1715009997911963:2069910",
+                "1715009997943740:2069940",
+                "1715009998064613:2069972"
+            ]
+        }
+    },
+    "1715009997911396:2069909": {
+        "IResourceController": {
+            "public": {
+                "path": "Randomizer Resources"
+            }
+        }
+    }
+}

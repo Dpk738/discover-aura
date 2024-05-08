@@ -1,0 +1,33 @@
+{
+    "1715028027620609:8603043": {
+        "IFileManager": {
+            "path": "Files/File_1715028027620609_8603043.ttf"
+        }
+    },
+    "1715028027631711:8603050": {
+        "IResourceController": {
+            "name": "AmaticSC",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715028027631729:8603051",
+            "fileId": "1715028027620609:8603043",
+            "publicId": "1715028027632962:8603056",
+            "expected_hash": "c4c985708dbf7b64111359a8abb2292d"
+        },
+        "IResourceManager": {
+            "uid": "1715028027631729:8603051",
+            "name": "Files/File_1715028027620609_8603043.ttf",
+            "flags": 1
+        }
+    },
+    "1715028027632962:8603056": {
+        "IResourceController": {
+            "public": {
+                "path": "AmaticSC.ttf",
+                "hash": "c4c985708dbf7b64111359a8abb2292d"
+            }
+        }
+    }
+}

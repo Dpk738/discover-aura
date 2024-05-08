@@ -1,0 +1,22 @@
+{
+    "1715009997911963:2069910": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1715009997912046:2069911",
+            "resources": [
+                "1715009997907925:2069895"
+            ]
+        }
+    },
+    "1715009997912046:2069911": {
+        "IResourceController": {
+            "public": {
+                "path": "Randomizer Resources/Scripts"
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "1674687505089556:281179": {
+        "IResourceController": {
+            "name": "Render Target",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1534543033794497:2027"
+        },
+        "IResourceManager": {
+            "uid": "1534543033794497:2027",
+            "name": "Orthographic Camera Output",
+            "flags": 0
+        }
+    }
+}

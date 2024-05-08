@@ -1,0 +1,42 @@
+{
+    "1674687505089557:281184": {
+        "IResourceController": {
+            "name": "old_paper_post_effect",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1564444797948882:5329",
+            "fileId": "1674687505089569:281201",
+            "originalId": "1674687505089587:281221",
+            "publicId": "1674687505089593:281232",
+            "expected_hash": "3acd9c68c33b25e370568c8e3ca488c7",
+            "additional": {
+                "originHash": "3acd9c68c33b25e370568c8e3ca488c7"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1564444797948882:5329",
+            "name": "Files/File_1674687505089569_281201.png",
+            "flags": 1
+        }
+    },
+    "1674687505089569:281201": {
+        "IFileManager": {
+            "path": "Files/File_1674687505089569_281201.png"
+        }
+    },
+    "1674687505089587:281221": {
+        "IFileManager": {
+            "path": "Files/File_1674687505089587_281221.png"
+        }
+    },
+    "1674687505089593:281232": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Textures [REMOVE_ME]/old_paper_post_effect.png",
+                "hash": "3acd9c68c33b25e370568c8e3ca488c7"
+            }
+        }
+    }
+}

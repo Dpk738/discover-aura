@@ -1,0 +1,42 @@
+{
+    "1674687505089558:281189": {
+        "IResourceController": {
+            "name": "TileScrollingMat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1610746417633087:154258",
+            "fileId": "1674687505089581:281214",
+            "originalId": "1674687505089582:281215",
+            "publicId": "1674687505089594:281235",
+            "expected_hash": "93c415faf56049363ec92d9e9a3d4e9c",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1610746417633087:154258",
+            "name": "Files/File_1674687505089581_281214",
+            "flags": 1
+        }
+    },
+    "1674687505089581:281214": {
+        "IFileManager": {
+            "path": "Files/File_1674687505089581_281214"
+        }
+    },
+    "1674687505089582:281215": {
+        "IFileManager": {
+            "path": "Files/File_1674687505089582_281215.lsmat"
+        }
+    },
+    "1674687505089594:281235": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/TileScrollingMat.lsmat",
+                "hash": "97a0edf646236e4ab9711ba3c14f8dce"
+            }
+        }
+    }
+}

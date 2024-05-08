@@ -1,0 +1,42 @@
+{
+    "1674687505089557:281182": {
+        "IResourceController": {
+            "name": "heart",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536694566851597:18126",
+            "fileId": "1674687505089563:281195",
+            "originalId": "1674687505089586:281220",
+            "publicId": "1674687505089592:281225",
+            "expected_hash": "b9d0f28c720d23d0ab030bfbe064748b",
+            "additional": {
+                "originHash": "b9d0f28c720d23d0ab030bfbe064748b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1536694566851597:18126",
+            "name": "/Resources/Resource93.png",
+            "flags": 1
+        }
+    },
+    "1674687505089563:281195": {
+        "IFileManager": {
+            "path": "Files/File_1674687505089563_281195.pvr"
+        }
+    },
+    "1674687505089586:281220": {
+        "IFileManager": {
+            "path": "Files/File_1674687505089586_281220.pvr"
+        }
+    },
+    "1674687505089592:281225": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Textures [REMOVE_ME]/heart.pvr",
+                "hash": "b9d0f28c720d23d0ab030bfbe064748b"
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "1674687505089557:281185": {
+        "IResourceController": {
+            "name": "Segmentation Texture [EDIT_ME]",
+            "type": 1,
+            "subtype": 14,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1571785356605059:504223"
+        },
+        "IResourceManager": {
+            "uid": "1571785356605059:504223",
+            "name": "Portrait Background Segmentation",
+            "flags": 0
+        }
+    }
+}

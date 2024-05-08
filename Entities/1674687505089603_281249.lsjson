@@ -1,0 +1,23 @@
+{
+    "1674687505089591:281224": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Textures [REMOVE_ME]"
+            }
+        }
+    },
+    "1674687505089603:281249": {
+        "IResourceController": {
+            "name": "Example Textures [REMOVE_ME]",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674687505089591:281224",
+            "resources": [
+                "1674687505089557:281182",
+                "1674687505089557:281184"
+            ]
+        }
+    }
+}
